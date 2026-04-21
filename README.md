@@ -2,7 +2,7 @@
 
 # Windrose Game Server - Dedicated Server
 
-[![Stars](https://img.shields.io/github/stars/puppygirllloll/Windrose-Game-Dedicated-Server)](https://github.com/puppygirllloll/Windrose-Game-Dedicated-Server) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/puppygirllloll/Windrose-Game-Dedicated-Server)](https://github.com/puppygirllloll/Windrose-Game-Dedicated-Server) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 > **Windrose Game Server** is the official-style dedicated server for **Windrose** — the exciting pirate survival multiplayer game.
 This version allows you to easily host your own private or public server for you and your friends with full control over settings, world generation, and player management.
